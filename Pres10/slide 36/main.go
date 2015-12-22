@@ -1,7 +1,7 @@
 package main
 
         import(
-        "github.com/AdvWebProg/Presentation-10/scope/name"
+        "github.com/harsh-c/golang/tree/master/Pres10/slide%2036/name"
         "fmt"
         )
 
