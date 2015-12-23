@@ -72,7 +72,7 @@ package main
 <html>
 <body>
 <h1>Image Database</h1>
-<h2>Submit New</h2>
+<h2>Submit</h2>
 <form method="POST">
     <table>
         <tr>
